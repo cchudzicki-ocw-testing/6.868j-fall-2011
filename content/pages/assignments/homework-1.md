@@ -6,7 +6,6 @@ parent_title: Assignments
 parent_type: CourseSection
 parent_uid: 4d182964-96d8-6a26-f8f1-e97fd030b967
 title: Homework 1
-type: CourseSection
 uid: e43ad7aa-9a02-706e-d917-8263163c9193
 ---
 
