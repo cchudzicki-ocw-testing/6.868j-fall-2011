@@ -31,4 +31,4 @@ For guidance about how to clearly communicate difficult ideas, please refer to t
 *   Covington, Michael. "[How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily." (PDF)](http://www.ai.uga.edu/mc/WriteThinkLearn.pdf) _How to Write More Clearly, Think More Clearly, and Learn Complex Material More Easily_. 2009.
 *   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Covington, Michael. [How to Write a Term Paper or Thesis. (PDF)](http://www.ai.uga.edu/mc/howtowrite/howtowrite.pdf) _How to Write_. 2011.
 
-[« Back to assignments]({{< baseurl >}}/pages/assignments)
+{{< resource_link 4d182964-96d8-6a26-f8f1-e97fd030b967 "« Back to assignments" >}}

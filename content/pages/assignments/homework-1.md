@@ -24,4 +24,4 @@ uid: e43ad7aa-9a02-706e-d917-8263163c9193
 
 {{< sup "1" >}}As an example, see ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Anderson, Michael L. [Neural Reuse: A Fundamental Organizational Principal for the Brain. (PDF)](https://pubmed.ncbi.nlm.nih.gov/20964882/) _Brain and Behavioral Sciences_ 33 (2010): pp. 245-313.
 
-[« Back to assignments]({{< baseurl >}}/pages/assignments)
+{{< resource_link 4d182964-96d8-6a26-f8f1-e97fd030b967 "« Back to assignments" >}}
