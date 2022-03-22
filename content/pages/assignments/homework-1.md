@@ -1,5 +1,6 @@
 ---
 content_type: page
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -9,10 +10,9 @@ parent_uid: 4d182964-96d8-6a26-f8f1-e97fd030b967
 title: Homework 1
 uid: e43ad7aa-9a02-706e-d917-8263163c9193
 ---
-
 **Problem 1.** What are three questions you would be interested in asking Professor Minsky about Chapter 1 of _The Emotion Machine_?
 
-**Problem 2.** What are the most important problems in your fiel that have been addressed by AI already? What are the most important problems in your fiel that you think AI could contribute to?
+**Problem 2.** What are the most important problems in your field that have been addressed by AI already? What are the most important problems in your field that you think AI could contribute to?
 
 **Problem 3.** The behavior of a complex\_\_\_\_\_\_\_\_\_\_depends only on how its parts\_\_\_\_\_\_\_\_\_\_\_\_, not what type of\_\_\_\_\_\_\_\_\_\_\_they're\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
