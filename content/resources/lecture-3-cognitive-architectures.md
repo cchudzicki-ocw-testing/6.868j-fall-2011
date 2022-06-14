@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, students use readings of M.A. Bozarth and Carl Sagan to discuss pleasure systems in the brain and human problem solving.
 
 **Instructor:** Marvin Minsky
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, students discuss Chapter 1 of The Emotion Machine, covering topics such as love, infatuation, and the Self.
 
 **Instructor:** Marvin Minsky
+

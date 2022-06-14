@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, students discuss Chapter 7 of _The Emotion Machine_, covering many different techniques for inference and solving problems with reasoning.
 
 **Instructor:** Marvin Minsky
+

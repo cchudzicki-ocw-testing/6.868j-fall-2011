@@ -28,3 +28,4 @@ video_metadata:
 p>**Description:** In this lecture, students discuss the course as a whole, the ideas covered, and thoughts on the mind, emotions, and artificial intelligence.
 
 **Instructor:** Marvin Minsky
+

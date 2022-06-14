@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, students discuss the nature of consciousness, asking what it is, and then asking whether the question is well founded.
 
 **Instructor:** Marvin Minsky
+

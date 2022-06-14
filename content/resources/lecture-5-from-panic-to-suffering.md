@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, students discuss Chapter 4 of _The Emotion Machine_, covering topics such as the relationship between pain, hurt, and perception, and how the mind exploits emotions.
 
 **Instructor:** Marvin Minsky
+

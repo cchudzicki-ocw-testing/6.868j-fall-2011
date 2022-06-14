@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, students discuss Chapter 6 of _The Emotion Machine_, focusing on topics such as "commonsense knowledge," both in people and in machines.
 
 **Instructor:** Marvin Minsky
+

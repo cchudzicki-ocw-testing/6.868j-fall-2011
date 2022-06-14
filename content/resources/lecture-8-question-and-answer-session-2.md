@@ -28,3 +28,4 @@ video_metadata:
 **Description:** In this lecture, students discuss cognitive architectures for organizing large artificial intelligence projects, as well future directions for what is needed.
 
 **Instructor:** Marvin Minsky
+
