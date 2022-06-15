@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the homework assignments and final project for
+  the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
