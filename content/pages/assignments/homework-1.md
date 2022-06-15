@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the first homework assignment of the course.
 draft: false
 learning_resource_types:
 - Assignments

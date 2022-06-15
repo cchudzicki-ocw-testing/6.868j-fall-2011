@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the final project and final project
+  proposal required for the course.
 draft: false
 learning_resource_types:
 - Assignments
